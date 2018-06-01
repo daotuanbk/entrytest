@@ -1,0 +1,5 @@
+{
+  "sessionSecret": "bla bla",
+  "mongoPath": "mongodb://localhost:27017/users-auth",
+  "secureCookie": false
+}
